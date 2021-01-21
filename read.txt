@@ -1,0 +1,17 @@
+Pengenalan OOP
+-Class
+-Object
+-Method (function)
+
+(pertemuan 21)
+Proses Instansi - method chaining, 
+setter dan getter, 
+Public function, 
+Inheritance - Protected Property & Private Property, 
+__construct & __destruct 
+
+(pertemuan 22)
+abtract
+
+(pertemuan 23)
+Polymorphism
